@@ -1,0 +1,28 @@
+name: leoaus
+favicon: null
+layout_spectrum: 0.1584290994796902
+typography_spectrum: 0.7538775263819844
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6154306619428098
+  lightness: 0.7338126637041569
+  saturation: 0.08949117735028267
+  rhythmicContrast: 0.22769060730934143
+purpose: []
