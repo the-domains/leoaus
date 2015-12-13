@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[leoaus]]></title>
+        <description><![CDATA[leoaus]]></description>
+        <link>https://thegrid.ai/leoaus/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Dec 2015 16:34:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leoaus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trip to Hong Kong, Macau, and Shenzhen - China]]></title>
+            <description><![CDATA[<article><h1>Trip to Hong Kong, Macau, and Shenzhen - China</h1><p>Hong Kong at midnight</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f80a19a745703702c7995402b15a10396fab7be2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/leoaus/trip-to-hong-kong-macau-and-shenzhen-china/index.html</link>
+            <guid isPermaLink="false">2a533cd5-f93e-492e-95c8-a2ac5383ef82</guid>
+            <pubDate>Sun, 13 Dec 2015 16:34:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
