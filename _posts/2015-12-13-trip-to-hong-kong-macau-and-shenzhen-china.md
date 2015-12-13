@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-13T16:34:16.054Z'
-dateModified: '2015-12-13T16:33:31.501Z'
+datePublished: '2015-12-13T16:34:32.763Z'
+dateModified: '2015-12-13T16:34:16.054Z'
 title: 'Trip to Hong Kong, Macau, and Shenzhen - China'
 author: []
 authors: []
